@@ -1,0 +1,14 @@
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.csprojAssemblyReference.cache
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.csproj.CoreCompileInputs.cache
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.RazorAssemblyInfo.cache
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.RazorAssemblyInfo.cs
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.AssemblyInfoInputs.cache
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.AssemblyInfo.cs
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\bin\Debug\netcoreapp2.2\apiUsuarioCrud.deps.json
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\bin\Debug\netcoreapp2.2\apiUsuarioCrud.runtimeconfig.json
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\bin\Debug\netcoreapp2.2\apiUsuarioCrud.runtimeconfig.dev.json
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\bin\Debug\netcoreapp2.2\apiUsuarioCrud.dll
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\bin\Debug\netcoreapp2.2\apiUsuarioCrud.pdb
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.RazorTargetAssemblyInfo.cache
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.dll
+C:\Users\Tra&MarConsulting\source\repos\apiUsuarioCrud\obj\Debug\netcoreapp2.2\apiUsuarioCrud.pdb
